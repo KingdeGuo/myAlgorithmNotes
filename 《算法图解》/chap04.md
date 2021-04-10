@@ -39,4 +39,26 @@ public class QuickSortDemo {
 }
 ```
 
-- 
+- 采用了分治算法的思想。
+
+
+
+# 利用递归对数组进行求和
+
+```java
+public class SumDemo {
+    public static void main(String[] args) {
+        int[] arr = new int[]{1, 2, 3, 4, 5, 6, 7, 8};
+        System.out.println(add(arr, 0, arr.length - 1, 0));
+    }
+
+    static int add(int[] arr, int left, int right, int sum) {
+        if (right - left == 0) {
+            return arr[right];
+        } else {
+            return sum = sum + arr[left] + add(arr, left + 1, right, sum);
+        }
+    }
+}
+```
+
