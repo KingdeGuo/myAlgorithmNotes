@@ -25,9 +25,26 @@
 
 ## 算法第四版
 
-
+- [基础](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89%E3%80%8B/chap01.md)
+- 排序
+- 查找
+- 图
+- 字符串
+- 背景
 
 ## 算法图解
 
+- [算法简介](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B/chap01.md)
+- [选择排序](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B/chap02.md)
+- [递归](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B/chap03.md)
+- [快速排序](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B/chap04.md)
+- [散列表](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B/chap05.md)
+- [广度优先搜索](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B/chap06.md)
+- [狄克斯拉特算法](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E3%80%8B/chap07.md)
+- 贪婪算法
+- 动态规划
+- K最邻近算法
+- 接下来如何做
 
+## LeetCode
 
