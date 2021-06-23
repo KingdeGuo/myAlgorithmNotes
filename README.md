@@ -14,10 +14,10 @@
 
 ## 算法模板
 
-- 排序
-- 链表
-- 树
-- 图
+- [排序](https://github.com/KingdeGuo/myAlgorithmNotes/tree/main/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/%E6%8E%92%E5%BA%8F)
+- [链表](https://github.com/KingdeGuo/myAlgorithmNotes/tree/main/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/%E9%93%BE%E8%A1%A8)
+- [树](https://github.com/KingdeGuo/myAlgorithmNotes/tree/main/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/%E6%A0%91)
+- [图](https://github.com/KingdeGuo/myAlgorithmNotes/tree/main/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/%E5%9B%BE)
 
 ## 剑指offer
 
