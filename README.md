@@ -12,7 +12,7 @@
 
   [leetcode](https://github.com/KingdeGuo/myAlgorithmNotes/tree/main/leetcode)
 
-《数据结构与算法分析-Java语言描述》
+[《数据结构与算法分析-Java语言描述》](https://github.com/KingdeGuo/myAlgorithmNotes/tree/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B)
 
 ## 算法模板
 
@@ -34,7 +34,18 @@
 
 ## 数据结构与算法分析-Java语言描述
 
-
+- [引论](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap01.md)
+- [算法分析](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap02.md)
+- [表、栈和队列](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap03.md)
+- [树](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap04.md)
+- [散列](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap05.md)
+- [优先队列（堆）](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap06.md)
+- [排序](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap07.md)
+- [不相交集](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap08.md)
+- [图论算法](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap09.md)
+- [算法设计技巧](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap10.md)
+- [摊还分析](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap11.md)
+- [高级数据结构及其实现](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E3%80%8B/chap12.md)
 
 ## 算法第四版
 
