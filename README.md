@@ -96,7 +96,7 @@
 
 - 栈
 
-  [20有效的括号](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)、
+  [20有效的括号](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)、[946验证栈系列](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/946%E9%AA%8C%E8%AF%81%E6%A0%88%E7%B3%BB%E5%88%97.md)、[232用两个栈实现队列](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/232%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)、
 
 - 动态规划
 
