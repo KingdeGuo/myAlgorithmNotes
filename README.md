@@ -76,7 +76,7 @@
 
 - 链表
 
-  [21合并两个有序链表](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/21%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)、[206反转链表](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/206%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)、
+  [21合并两个有序链表](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/21%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)、[206反转链表](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/206%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)、[2两数相加](https://github.com/KingdeGuo/myAlgorithmNotes/blob/main/leetcode/2%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)、
 
 - 排序
 
